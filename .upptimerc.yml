@@ -2,6 +2,8 @@ owner: NeuroWhAI
 repo: my-upptime
 
 sites:
+  - name: Tistory Blog
+    url: https://neurowhai.tistory.com/
   - name: Fire Maps
     url: https://firemaps.neurowhai.cf/
 
