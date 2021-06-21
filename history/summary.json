@@ -1,5 +1,23 @@
 [
   {
+    "name": "Tistory Blog",
+    "url": "https://neurowhai.tistory.com/",
+    "icon": "https://favicons.githubusercontent.com/neurowhai.tistory.com",
+    "slug": "tistory-blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2329,
+    "timeDay": 2329,
+    "timeWeek": 2329,
+    "timeMonth": 2329,
+    "timeYear": 2329,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Fire Maps",
     "url": "https://firemaps.neurowhai.cf/",
     "icon": "https://favicons.githubusercontent.com/firemaps.neurowhai.cf",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1529,
-    "timeDay": 1529,
-    "timeWeek": 1529,
-    "timeMonth": 1529,
-    "timeYear": 1529,
+    "time": 1839,
+    "timeDay": 1839,
+    "timeWeek": 1839,
+    "timeMonth": 1839,
+    "timeYear": 1839,
     "dailyMinutesDown": {}
   }
 ]
