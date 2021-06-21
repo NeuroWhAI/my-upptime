@@ -4,19 +4,19 @@
     "url": "https://neurowhai.tistory.com/",
     "icon": "https://favicons.githubusercontent.com/neurowhai.tistory.com",
     "slug": "tistory-blog",
-    "status": "down",
-    "uptime": "95.86%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "95.86%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "95.86%",
-    "time": 3515,
-    "timeDay": 3515,
-    "timeWeek": 3515,
-    "timeMonth": 3515,
-    "timeYear": 3515,
+    "status": "up",
+    "uptime": "95.07%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "95.07%",
+    "uptimeYear": "95.07%",
+    "time": 3235,
+    "timeDay": 3235,
+    "timeWeek": 3235,
+    "timeMonth": 3235,
+    "timeYear": 3235,
     "dailyMinutesDown": {
-      "2021-06-21": 29
+      "2021-06-21": 35
     }
   },
   {
