@@ -4,7 +4,7 @@
     "url": "https://firemaps.neurowhai.cf/",
     "icon": "https://favicons.githubusercontent.com/firemaps.neurowhai.cf",
     "slug": "fire-maps",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.59%",
@@ -16,6 +16,7 @@
     "timeMonth": 593,
     "timeYear": 904,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2022-03-08": 554,
       "2022-03-07": 496,
       "2022-02-24": 196,
