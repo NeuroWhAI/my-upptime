@@ -4,6 +4,8 @@ repo: my-upptime
 sites:
   - name: Fire Maps
     url: https://firemaps.neurowhai.cf/
+  - name: Isekaidol Stream Noti
+    url: https://isekaidol-stream-noti.web.app/
 
 status-website:
   theme: dark
